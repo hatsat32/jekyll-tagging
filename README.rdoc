@@ -1,5 +1,9 @@
 = jekyll-tagging
 
+A custom version of "jekyll-tagging" for my own (hatsat32) use.
+
+---
+
 By Arne Eilermann <mailto:arne@kleinerdrei.net> and Jens Wille <mailto:jens.wille@uni-koeln.de>
 
 jekyll-tagging is a Jekyll plugin, to add a tag cloud and per tag pages plus feeds to your Jekyll generated Website.
