@@ -2,6 +2,10 @@
 
 A custom version of "jekyll-tagging" for my own (hatsat32) use.
 
+Fixes some issues about slugifying tags.
+
+  gem install h32-jekyll-tagging
+
 ---
 
 By Arne Eilermann <mailto:arne@kleinerdrei.net> and Jens Wille <mailto:jens.wille@uni-koeln.de>
